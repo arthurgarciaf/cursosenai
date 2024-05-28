@@ -1,0 +1,5 @@
+print("Insira a cotação atual do dolar")   
+cot = float(input())
+print("Insira o valor que você quer converter para reais")
+value = float(input())
+print("O valor convertido é de", value*cot)

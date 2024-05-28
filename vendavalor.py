@@ -1,0 +1,6 @@
+print("Qual o valor do produto?")
+valor = float(input())
+print("Qual o acréscimo em porcentagem?")
+acrescimo = float(input())
+vv = valor + (valor*acrescimo/100)
+print(f"O valor do produto com acréscimo é de {vv:.2f}")
