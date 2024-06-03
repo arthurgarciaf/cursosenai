@@ -3,7 +3,7 @@ primNum = int(input())
 print("Agora digita o segundo número")
 segNum = int(input())
 if primNum > segNum:
-    print(primNum," é o maior número")
+    print("O maior número é",primNum," ",segNum,"é o menor.")
 else:
-    print(segNum,"é o maior número")
+    print("O maior número é",segNum," ",primNum,"é o menor.")
     
