@@ -43,3 +43,19 @@ Calcula quanto será pago por prestação em uma compra paga em 5x sem juros
 Recebe o preço de custo de um produto e solicita o acréscimo em porcentagem para definir o valor de venda apropriado
 > [Acesse aqui](https://github.com/arthurscr/cursosenai/blob/main/vendavalor.py)
 
+### 💻 | Verificar número maior e menor
+Recebe dois inputs do tipo inteiro e diz qual é o maior e qual é o menor entre eles
+> [Acesse aqui](https://github.com/arthurgarciaf/cursosenai/blob/main/maiormenor.py)
+
+### 💻 | Verificador de intervalo
+Verifica se o número digitado pelo usuário está em um intervalo definido no código.
+> [Acesse aqui](https://github.com/arthurgarciaf/cursosenai/blob/main/interval.py)
+
+### 💻 | Verificação menor ou maior que 10
+Recebe um número e diz se é maior ou menor que 10.
+> [Acesse aqui](https://github.com/arthurgarciaf/cursosenai/blob/main/maiormenor10.py)
+
+### ✖ | Calculadora de notas 2.0
+Atualização da calculadora de notas, agora a mesma diz se o aluno passou ou não.
+> [Acesse aqui](https://github.com/arthurgarciaf/cursosenai/blob/main/maiormenor10.py)
+
